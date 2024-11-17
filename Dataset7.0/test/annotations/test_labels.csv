@@ -1,0 +1,96 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+Marine Animal,93,17,154,131,1.jpg,300,168
+Marine Animal,3,15,58,52,10.jpg,194,259
+Marine Animal,34,50,56,34,10.jpg,194,259
+Marine Animal,10,96,34,29,10.jpg,194,259
+Marine Animal,33,102,34,28,10.jpg,194,259
+Marine Animal,2,182,44,33,10.jpg,194,259
+Marine Animal,51,142,40,26,10.jpg,194,259
+Marine Animal,57,186,107,64,10.jpg,194,259
+Marine Animal,83,107,80,70,10.jpg,194,259
+Trash,254,116,44,26,11.jpg,299,168
+Trash,176,120,30,26,11.jpg,299,168
+Trash,225,115,20,27,11.jpg,299,168
+Trash,156,87,35,18,11.jpg,299,168
+Trash,132,95,24,16,11.jpg,299,168
+Trash,174,60,19,11,11.jpg,299,168
+Trash,80,49,41,19,11.jpg,299,168
+Trash,54,65,14,8,11.jpg,299,168
+Trash,157,98,71,20,11.jpg,299,168
+Trash,124,52,78,94,12.jpg,275,183
+Trash,220,56,39,22,12.jpg,275,183
+Trash,199,169,26,11,12.jpg,275,183
+Trash,97,163,26,13,12.jpg,275,183
+Trash,41,51,74,73,13.jpg,259,194
+Trash,156,38,42,33,13.jpg,259,194
+Trash,80,86,111,92,13.jpg,259,194
+Trash,107,19,50,36,13.jpg,259,194
+Trash,116,54,39,32,13.jpg,259,194
+Trash,175,65,36,38,13.jpg,259,194
+Trash,302,37,315,316,14.jpg,768,432
+Trash,138,1,215,106,14.jpg,768,432
+Trash,0,79,109,150,14.jpg,768,432
+Trash,0,1,105,66,14.jpg,768,432
+Trash,117,115,171,137,14.jpg,768,432
+Marine Animal,54,194,68,50,15.jpg,900,600
+Marine Animal,70,84,67,36,15.jpg,900,600
+Trash,158,308,742,290,15.jpg,900,600
+Trash,0,119,231,121,15.jpg,900,600
+Trash,217,32,43,32,16.jpg,275,183
+Marine Animal,45,47,101,62,16.jpg,275,183
+Marine Animal,0,111,541,530,17.jpg,1024,685
+Trash,517,137,506,420,17.jpg,1024,685
+Trash,305,815,318,204,19.jpg,1024,1024
+Trash,628,809,224,189,19.jpg,1024,1024
+Trash,284,645,191,123,19.jpg,1024,1024
+Marine Animal,550,605,60,45,19.jpg,1024,1024
+Marine Animal,469,594,54,39,19.jpg,1024,1024
+Marine Animal,312,577,58,34,19.jpg,1024,1024
+Marine Animal,329,419,39,32,19.jpg,1024,1024
+Marine Animal,305,538,56,34,19.jpg,1024,1024
+Marine Animal,518,538,49,24,19.jpg,1024,1024
+Marine Animal,32,17,250,138,2.jpg,300,168
+Marine Animal,395,118,66,29,20.jpg,750,499
+Marine Animal,452,133,67,30,20.jpg,750,499
+Marine Animal,514,129,72,42,20.jpg,750,499
+Trash,157,268,341,211,20.jpg,750,499
+Trash,561,295,176,92,20.jpg,750,499
+Trash,608,433,70,52,20.jpg,750,499
+Marine Animal,92,31,161,138,3.jpg,275,183
+Marine Animal,37,34,148,133,4.jpg,259,195
+Marine Animal,44,1,41,18,6.jpg,272,186
+Marine Animal,32,20,21,12,6.jpg,272,186
+Marine Animal,134,29,21,8,6.jpg,272,186
+Marine Animal,106,17,20,22,6.jpg,272,186
+Marine Animal,182,43,14,15,6.jpg,272,186
+Marine Animal,246,45,13,22,6.jpg,272,186
+Marine Animal,229,77,13,15,6.jpg,272,186
+Marine Animal,191,59,14,14,6.jpg,272,186
+Marine Animal,136,54,14,11,6.jpg,272,186
+Marine Animal,104,45,12,8,6.jpg,272,186
+Marine Animal,68,57,17,9,6.jpg,272,186
+Marine Animal,14,109,86,60,6.jpg,272,186
+Marine Animal,48,38,19,13,6.jpg,272,186
+Marine Animal,155,34,14,25,6.jpg,272,186
+Marine Animal,43,42,220,112,7.jpg,300,168
+Marine Animal,222,59,23,19,8.jpg,259,194
+Marine Animal,129,95,24,11,8.jpg,259,194
+Marine Animal,116,47,24,22,8.jpg,259,194
+Marine Animal,74,107,30,17,8.jpg,259,194
+Marine Animal,65,141,21,16,8.jpg,259,194
+Marine Animal,55,158,13,17,8.jpg,259,194
+Marine Animal,30,152,13,18,8.jpg,259,194
+Marine Animal,46,116,17,20,8.jpg,259,194
+Marine Animal,131,26,16,11,8.jpg,259,194
+Marine Animal,106,14,21,21,8.jpg,259,194
+Marine Animal,159,5,15,12,8.jpg,259,194
+Marine Animal,169,15,16,13,8.jpg,259,194
+Marine Animal,162,68,10,10,8.jpg,259,194
+Marine Animal,81,66,15,11,8.jpg,259,194
+Marine Animal,40,95,14,12,8.jpg,259,194
+Marine Animal,140,46,71,39,9.jpg,297,170
+Marine Animal,51,91,100,40,9.jpg,297,170
+Marine Animal,142,134,21,24,9.jpg,297,170
+Marine Animal,0,10,124,78,9.jpg,297,170
+Marine Animal,227,23,22,22,9.jpg,297,170
+Marine Animal,279,3,18,22,9.jpg,297,170
